@@ -1,5 +1,4 @@
 # Projects
-User Story
 As a user, I want to move the character towards the end line.
 As a user, I want to be able to jump over obstacles to get to the end line.
 As a user, I want to be able to save and load the game whenever I want.
