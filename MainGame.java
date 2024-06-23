@@ -1,11 +1,12 @@
+import model.Game;
+
 import javax.swing.*;
 
 
 public class MainGame extends JFrame {
 
     public MainGame() {
-        this.setSize(500,500);
-        this.setVisible(true);
+        new Game();
     }
 
 
